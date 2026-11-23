@@ -1,4 +1,4 @@
-# aprendiendo-git
+# titulo-cool
 repo de practica para github
 
 ## descripcion
